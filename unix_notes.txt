@@ -1,4 +1,4 @@
-ll
+# Hidden folder where the staging area and commits live: .git/
 ls -l
 ls
 history > moving_around.txt
@@ -6,10 +6,10 @@ cd
 man less
 history | less
 /git
-history 
+history
 subl .
-subl 
-ls 
+subl
+ls
 ls .
 ls ~
 cd ~
@@ -19,7 +19,7 @@ cd../../..
 cd ..
 ls titanium\ backup/
 ls my\ real\ estate/
-ls AvramovicDeclBranaKuzminac.gdoc 
+ls AvramovicDeclBranaKuzminac.gdoc
 ls yale\ lewis/
 cd Google\ Drive/
 cd /users
@@ -36,7 +36,7 @@ git config --global user.name 'Mateja Abrams'
 git --version
 brew install git
 subl /etc/paths
-echo $PATH 
+echo $PATH
 echo $P
 echo $EDITOR
 subl ~/.config/fish/config.fish
@@ -63,10 +63,10 @@ cd
 man less
 history | less
 /git
-history 
+history
 subl .
-subl 
-ls 
+subl
+ls
 ls .
 ls ~
 cd ~
@@ -76,7 +76,7 @@ cd../../..
 cd ..
 ls titanium\ backup/
 ls my\ real\ estate/
-ls AvramovicDeclBranaKuzminac.gdoc 
+ls AvramovicDeclBranaKuzminac.gdoc
 ls yale\ lewis/
 cd Google\ Drive/
 cd /users
@@ -93,7 +93,7 @@ git config --global user.name 'Mateja Abrams'
 git --version
 brew install git
 subl /etc/paths
-echo $PATH 
+echo $PATH
 echo $P
 echo $EDITOR
 subl ~/.config/fish/config.fish
