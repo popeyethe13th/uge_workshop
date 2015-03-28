@@ -1,0 +1,114 @@
+ll
+ls -l
+ls
+history > moving_around.txt
+cd
+man less
+history | less
+/git
+history 
+subl .
+subl 
+ls 
+ls .
+ls ~
+cd ~
+cd /
+cd ../../..
+cd../../..
+cd ..
+ls titanium\ backup/
+ls my\ real\ estate/
+ls AvramovicDeclBranaKuzminac.gdoc 
+ls yale\ lewis/
+cd Google\ Drive/
+cd /users
+man ls
+ls -a
+ls -@
+ls -lr
+ls -G
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'mateja81@gmail.com'
+
+git config --global user.name 'Mateja Abrams'
+git --version
+brew install git
+subl /etc/paths
+echo $PATH 
+echo $P
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+curl -fsSL http://git.io/beJs | ruby
+brew doctor
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ma
+echo $SHELL
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+uname
+ls -l ~
+$ ls -l ~
+ll
+history > moving_around.txt
+ls -l
+ls
+cd
+man less
+history | less
+/git
+history 
+subl .
+subl 
+ls 
+ls .
+ls ~
+cd ~
+cd /
+cd ../../..
+cd../../..
+cd ..
+ls titanium\ backup/
+ls my\ real\ estate/
+ls AvramovicDeclBranaKuzminac.gdoc 
+ls yale\ lewis/
+cd Google\ Drive/
+cd /users
+man ls
+ls -a
+ls -@
+ls -lr
+ls -G
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'mateja81@gmail.com'
+
+git config --global user.name 'Mateja Abrams'
+git --version
+brew install git
+subl /etc/paths
+echo $PATH 
+echo $P
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+curl -fsSL http://git.io/beJs | ruby
+brew doctor
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ma
+echo $SHELL
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+uname
+ls -l ~
+$ ls -l ~
